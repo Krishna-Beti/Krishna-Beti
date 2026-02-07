@@ -69,11 +69,8 @@
   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
   </a>
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/krishna-beti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.naukri.com" target="_blank">
-    <img src="https://img.shields.io/badge/Naukri-4CAF50?style=for-the-badge"/>
   </a>
 </p>
 
