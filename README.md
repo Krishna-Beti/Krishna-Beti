@@ -14,7 +14,7 @@
 - 🧠 Love working close to the system — **architecture, performance & native integrations**.
 - 🔥 Curious by nature, always learning things **beyond my experience level**.
 - 📫 Reach me at: **krishnabeti2304@gmail.com**
-- 📫 Portfolio: **krishna-beti-portfolio.vercel.app**
+- 📫 Portfolio: [krishna-beti-portfolio.vercel.app]
 
 ---
 
@@ -67,7 +67,7 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="krishna-beti-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/krishna-beti/" target="_blank">
